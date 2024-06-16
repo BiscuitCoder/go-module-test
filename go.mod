@@ -1,3 +1,3 @@
-module github.com/YouEclipse/how-to-release-go-module
+module github.com/BiscuitCoder/go-module-test
 
 go 1.22.4
